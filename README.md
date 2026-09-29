@@ -18,3 +18,10 @@ View your app in AI Studio: https://ai.studio/apps/8651ec05-a96f-4d63-9df5-5fc02
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+
+   ## Documentation ##
+
+   ## 📚 Documentation
+
+[📄 View Project Documentation](https://github.com/yashrajshembde-ctrl/AI-Powered-Personal-Finance-Advisor/blob/main/docs/BSFI-FinNews-AI_Documentation_KP.docx)
+   
