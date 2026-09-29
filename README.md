@@ -23,5 +23,4 @@ View your app in AI Studio: https://ai.studio/apps/8651ec05-a96f-4d63-9df5-5fc02
 
    ## 📚 Documentation
 
-[📄 View Project Documentation](https://github.com/yashrajshembde-ctrl/AI-Powered-Personal-Finance-Advisor/blob/main/docs/BSFI-FinNews-AI_Documentation_KP.docx)
-   
+[📄 View Project Documentation](https://docs.google.com/gview?embedded=1&url=https://raw.githubusercontent.com/yashrajshembde-ctrl/AI-Powered-Personal-Finance-Advisor/main/Docs1/BSFI-MONEYMIND-AI_Documentation_YS.docx)
