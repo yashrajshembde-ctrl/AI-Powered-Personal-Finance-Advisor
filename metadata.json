@@ -1,0 +1,6 @@
+{
+  "name": "FinBot - AI Personal Finance Advisor",
+  "description": "Smart AI-powered personal finance management with income and expense tracking, intelligent budgeting, spending analysis, savings goals, and FinBot AI advisor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
